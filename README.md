@@ -11,43 +11,9 @@
 </div> 
 <br> 
 
-**Astrofizikçi & Yapay Zeka Eğitmeni** | *Gözlemsel Astrofizik · Optik Spektroskopi · AI*
-
-🎓 Akdeniz Üniversitesi'nde Astronomi ve Astrofizik alanında yüksek lisans yapıyorum.
-💻 Python (NumPy, SciPy, Astropy, Photutils, Flet) ile bilimsel veri analizi, Gaussian line fitting algoritmaları ve arayüz programlama üzerine çalışıyorum.
-🔭 IRAF ve DS9 gibi araçlarla görüntü hizalama (spatial alignment) ve fotometrik ölçümler yapıyorum.
-🤖 Bir yapay zeka eğitmeni olarak çalışıyor; AI destekli araçları aktif olarak kullanıyorum.
-📫 Bana ulaşmak veya araştırma/iş birliği projeleri için aşağıdaki kanallardan iletişime geçebilirsiniz:
-
-<br> 
-<div align="center"> 
-  <a href="mailto:epostaadresiniz@gmail.com"> 
-    <img src="[https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" /> 
-  </a> 
-  <a href="[https://linkedin.com/in/kullaniciadiniz](https://linkedin.com/in/kullaniciadiniz)"> 
-    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" /> 
-  </a> 
-</div> 
-<br> 
-
-<div align="center"> 
-  <b>Programlama, Araçlar & Bilimsel Analiz</b><br>
-  <br>
-  <img src="[https://skillicons.dev/icons?i=python,linux,bash,regex,git,github,vscode,docker&theme=dark](https://skillicons.dev/icons?i=python,linux,bash,regex,git,github,vscode,docker&theme=dark)" /> 
-</div> 
-<br> 
-
-<div align="center"> 
-  <img height="165" src="[https://github-readme-streak-stats.herokuapp.com/?user=emrebilgin&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8](https://github-readme-streak-stats.herokuapp.com/?user=emrebilgin&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)" /> 
-  <br> 
-  
-  <div align="center"> 
-    <img src="[https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)" alt="snake animation" width="100%"/> 
-  </div> 
-  
-  <div align="center"> 
-    <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)" width="100%"/> 
-    <br>
-    ⭐ Profilime uğradığınız için teşekkürler! Bilim ve teknolojiyle kalın 🚀
-  </div>
-</div>
+```text
+isim:       Emre Bilgin
+rol:        Astrofizikçi & Yapay Zeka Eğitmeni
+odak:       Gözlemsel Astrofizik · Optik Spektroskopi · AI
+şu_an:      Yüksek lisans tezimi hazırlıyor ve bilimsel projeler geliştiriyorum
+ilgi_alanı: Süpernova Kalıntıları, Python ile Bilimsel Analiz, Yapay Zeka
