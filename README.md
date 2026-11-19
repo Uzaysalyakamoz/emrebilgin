@@ -7,6 +7,13 @@
 
   <br />
 
+  <img src="https://img.shields.io/badge/Dil-T%C3%BCrk%C3%A7e-38BDF8?style=for-the-badge" alt="Türkçe Versiyon" />
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/Language-English-1E293B?style=for-the-badge" alt="English Version" />
+  </a>
+
+  <br />
+
   <img src="https://komarev.com/ghpvc/?username=Uzaysalyakamoz&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Researching%20%26%20Building-38BDF8?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Location-Antalya%2C%20T%C3%BCrkiye-0EA5E9?style=for-the-badge" alt="Location" />
